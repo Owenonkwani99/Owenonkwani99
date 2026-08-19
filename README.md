@@ -10,8 +10,8 @@ NodeJS • React • JavaScript • TypeScript • PHP • HTML5 • CSS3 • Da
 ---
 
 ## Connect with Me
-[🌐 Portfolio](https://your-portfolio-link.com)  
-[🔗 LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+[🌐 Portfolio]([https://your-portfolio-link.com](https://owenonkwani.vercel.app/))  
+[🔗 LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/owen-onkwani-21560b263/))  
 
 ---
 
